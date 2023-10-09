@@ -97,7 +97,7 @@ function ResponsiveDrawer(props)
           </ListItem>
           </NavLink>
 
-          <a target="_blank" href="https://github.com/mayur-argade/Event-management-portal">
+          <a target="_blank" href="https://github.com/vedantbhosale01/Event-Management-System">
             <ListItem  disablePadding>
             <ListItemButton>
               <ListItemIcon  >
